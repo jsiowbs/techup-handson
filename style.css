@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    background-color: yellow;
+
+    text-align: center;
+    border: 10px solid black;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    margin-bottom: 100px;
+}
+
+#rainyday{
+    color:darkgreen;
+}
+.projects{
+    background-color: lightblue;
+}
