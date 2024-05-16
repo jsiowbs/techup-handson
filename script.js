@@ -28,5 +28,10 @@ while (age < 70) {
 }
 
 function sayHello(){
-    console.log("Hello Everyone");
+    alert("Hello Everyone");
+}
+
+function showAge() {
+    var user_input = document.getElementById("user-input").value;
+    document.getElementById("header-age").textContent = user_input;
 }
